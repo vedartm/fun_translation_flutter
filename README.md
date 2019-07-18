@@ -1,6 +1,6 @@
-# shakespeare_it
+# Fun Translation Flutter
 
-A new Flutter project.
+A Flutter project to try out the UI library [equinox](https://pub.dev/packages/equinox) with BLoC pattern using [Fun translation](funtranslations.com) API.
 
 ## Getting Started
 
