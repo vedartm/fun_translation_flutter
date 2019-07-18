@@ -1,0 +1,22 @@
+name: fun_translate_it
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  equinox: ^0.1.4
+  http: ^0.12.0+2
+  share: ^0.6.2
+  rxdart: ^0.22.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
