@@ -1,6 +1,6 @@
 # Fun Translation Flutter
 
-A Flutter project to try out the UI library [equinox](https://pub.dev/packages/equinox) with BLoC pattern using [Fun translation](funtranslations.com) API.
+A Flutter project to try out the UI library [equinox](https://pub.dev/packages/equinox) with BLoC pattern using [Fun translation](https://funtranslations.com) API.
 
 ## Screenshot
 <img src="https://raw.github.com/excogitatr/fun_translation_flutter/master/screenshots/Screenshot_1563423737.png" width="300">
